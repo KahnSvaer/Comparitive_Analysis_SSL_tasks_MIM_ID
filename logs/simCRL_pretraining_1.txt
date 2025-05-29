@@ -1,0 +1,206 @@
+2025-05-26 22:27:46,812 - INFO - Start SimCLR training for 50 epochs.
+2025-05-26 22:27:46,813 - INFO - Training with gpu: False.
+2025-05-26 22:40:05,612 - INFO - Best model updated at epoch 1 with loss 6.1177
+2025-05-26 22:40:05,612 - DEBUG - Epoch: 0	Avg Loss: 6.1177	Top1 accuracy: 1.171875
+2025-05-26 22:52:13,399 - INFO - Best model updated at epoch 2 with loss 5.8363
+2025-05-26 22:52:13,400 - DEBUG - Epoch: 1	Avg Loss: 5.8363	Top1 accuracy: 2.34375
+2025-05-26 23:04:20,873 - INFO - Best model updated at epoch 3 with loss 5.4093
+2025-05-26 23:04:20,874 - DEBUG - Epoch: 2	Avg Loss: 5.4093	Top1 accuracy: 6.0546875
+2025-05-26 23:16:30,446 - INFO - Best model updated at epoch 4 with loss 4.8783
+2025-05-26 23:16:30,447 - DEBUG - Epoch: 3	Avg Loss: 4.8783	Top1 accuracy: 14.6484375
+2025-05-26 23:28:38,982 - INFO - Checkpoint saved at epoch 5
+2025-05-26 23:28:39,858 - INFO - Best model updated at epoch 5 with loss 4.4664
+2025-05-26 23:28:39,858 - DEBUG - Epoch: 4	Avg Loss: 4.4664	Top1 accuracy: 16.015625
+2025-05-26 23:40:49,198 - INFO - Best model updated at epoch 6 with loss 4.0777
+2025-05-26 23:40:49,199 - DEBUG - Epoch: 5	Avg Loss: 4.0777	Top1 accuracy: 23.4375
+2025-05-26 23:53:00,892 - INFO - Best model updated at epoch 7 with loss 3.7214
+2025-05-26 23:53:00,892 - DEBUG - Epoch: 6	Avg Loss: 3.7214	Top1 accuracy: 38.0859375
+2025-05-27 00:05:14,143 - INFO - Best model updated at epoch 8 with loss 3.4779
+2025-05-27 00:05:14,143 - DEBUG - Epoch: 7	Avg Loss: 3.4779	Top1 accuracy: 32.6171875
+2025-05-27 00:17:27,220 - INFO - Best model updated at epoch 9 with loss 3.1933
+2025-05-27 00:17:27,221 - DEBUG - Epoch: 8	Avg Loss: 3.1933	Top1 accuracy: 39.84375
+2025-05-27 00:29:37,956 - INFO - Checkpoint saved at epoch 10
+2025-05-27 00:29:38,815 - INFO - Best model updated at epoch 10 with loss 3.0248
+2025-05-27 00:29:38,815 - DEBUG - Epoch: 9	Avg Loss: 3.0248	Top1 accuracy: 37.3046875
+2025-05-27 00:41:51,084 - INFO - Best model updated at epoch 11 with loss 2.9036
+2025-05-27 00:41:51,085 - DEBUG - Epoch: 10	Avg Loss: 2.9036	Top1 accuracy: 46.484375
+2025-05-27 00:54:02,608 - INFO - Best model updated at epoch 12 with loss 2.7934
+2025-05-27 00:54:02,608 - DEBUG - Epoch: 11	Avg Loss: 2.7934	Top1 accuracy: 46.09375
+2025-05-27 01:06:15,328 - INFO - Best model updated at epoch 13 with loss 2.6241
+2025-05-27 01:06:15,329 - DEBUG - Epoch: 12	Avg Loss: 2.6241	Top1 accuracy: 49.609375
+2025-05-27 01:18:28,460 - INFO - Best model updated at epoch 14 with loss 2.5074
+2025-05-27 01:18:28,460 - DEBUG - Epoch: 13	Avg Loss: 2.5074	Top1 accuracy: 51.5625
+2025-05-27 01:30:41,468 - INFO - Checkpoint saved at epoch 15
+2025-05-27 01:30:42,368 - INFO - Best model updated at epoch 15 with loss 2.4148
+2025-05-27 01:30:42,369 - DEBUG - Epoch: 14	Avg Loss: 2.4148	Top1 accuracy: 54.8828125
+2025-05-27 01:42:55,778 - INFO - Best model updated at epoch 16 with loss 2.3210
+2025-05-27 01:42:55,779 - DEBUG - Epoch: 15	Avg Loss: 2.3210	Top1 accuracy: 52.9296875
+2025-05-27 01:55:10,466 - INFO - Best model updated at epoch 17 with loss 2.2436
+2025-05-27 01:55:10,466 - DEBUG - Epoch: 16	Avg Loss: 2.2436	Top1 accuracy: 53.90625
+2025-05-27 02:07:25,786 - INFO - Best model updated at epoch 18 with loss 2.1884
+2025-05-27 02:07:25,786 - DEBUG - Epoch: 17	Avg Loss: 2.1884	Top1 accuracy: 57.6171875
+2025-05-27 02:19:38,832 - INFO - Best model updated at epoch 19 with loss 2.1142
+2025-05-27 02:19:38,833 - DEBUG - Epoch: 18	Avg Loss: 2.1142	Top1 accuracy: 52.34375
+2025-05-27 02:31:50,870 - INFO - Checkpoint saved at epoch 20
+2025-05-27 02:31:51,780 - INFO - Best model updated at epoch 20 with loss 2.0763
+2025-05-27 02:31:51,781 - DEBUG - Epoch: 19	Avg Loss: 2.0763	Top1 accuracy: 55.859375
+2025-05-27 02:44:07,769 - INFO - Best model updated at epoch 21 with loss 2.0406
+2025-05-27 02:44:07,770 - DEBUG - Epoch: 20	Avg Loss: 2.0406	Top1 accuracy: 63.4765625
+2025-05-27 02:56:20,769 - INFO - Best model updated at epoch 22 with loss 1.9808
+2025-05-27 02:56:20,770 - DEBUG - Epoch: 21	Avg Loss: 1.9808	Top1 accuracy: 64.453125
+2025-05-27 03:08:34,873 - INFO - Best model updated at epoch 23 with loss 1.9282
+2025-05-27 03:08:34,874 - DEBUG - Epoch: 22	Avg Loss: 1.9282	Top1 accuracy: 57.03125
+2025-05-27 03:20:47,778 - INFO - Best model updated at epoch 24 with loss 1.8897
+2025-05-27 03:20:47,778 - DEBUG - Epoch: 23	Avg Loss: 1.8897	Top1 accuracy: 54.4921875
+2025-05-27 03:33:01,415 - INFO - Checkpoint saved at epoch 25
+2025-05-27 03:33:02,314 - INFO - Best model updated at epoch 25 with loss 1.8199
+2025-05-27 03:33:02,315 - DEBUG - Epoch: 24	Avg Loss: 1.8199	Top1 accuracy: 63.671875
+2025-05-27 03:45:17,846 - INFO - Best model updated at epoch 26 with loss 1.7770
+2025-05-27 03:45:17,847 - DEBUG - Epoch: 25	Avg Loss: 1.7770	Top1 accuracy: 62.890625
+2025-05-27 03:57:32,215 - DEBUG - Epoch: 26	Avg Loss: 1.7812	Top1 accuracy: 65.625
+2025-05-27 04:09:48,683 - INFO - Best model updated at epoch 28 with loss 1.7026
+2025-05-27 04:09:48,684 - DEBUG - Epoch: 27	Avg Loss: 1.7026	Top1 accuracy: 64.6484375
+2025-05-27 04:22:04,692 - INFO - Best model updated at epoch 29 with loss 1.6565
+2025-05-27 04:22:04,693 - DEBUG - Epoch: 28	Avg Loss: 1.6565	Top1 accuracy: 68.1640625
+2025-05-27 04:34:20,339 - INFO - Checkpoint saved at epoch 30
+2025-05-27 04:34:21,266 - INFO - Best model updated at epoch 30 with loss 1.6369
+2025-05-27 04:34:21,267 - DEBUG - Epoch: 29	Avg Loss: 1.6369	Top1 accuracy: 71.6796875
+2025-05-27 04:46:37,785 - INFO - Best model updated at epoch 31 with loss 1.6030
+2025-05-27 04:46:37,785 - DEBUG - Epoch: 30	Avg Loss: 1.6030	Top1 accuracy: 67.1875
+2025-05-27 04:58:51,321 - INFO - Best model updated at epoch 32 with loss 1.5780
+2025-05-27 04:58:51,322 - DEBUG - Epoch: 31	Avg Loss: 1.5780	Top1 accuracy: 69.53125
+2025-05-27 05:11:05,843 - INFO - Best model updated at epoch 33 with loss 1.5619
+2025-05-27 05:11:05,844 - DEBUG - Epoch: 32	Avg Loss: 1.5619	Top1 accuracy: 67.578125
+2025-05-27 05:23:19,203 - INFO - Best model updated at epoch 34 with loss 1.5139
+2025-05-27 05:23:19,204 - DEBUG - Epoch: 33	Avg Loss: 1.5139	Top1 accuracy: 73.046875
+2025-05-27 05:35:34,086 - INFO - Checkpoint saved at epoch 35
+2025-05-27 05:35:34,979 - INFO - Best model updated at epoch 35 with loss 1.4875
+2025-05-27 05:35:34,979 - DEBUG - Epoch: 34	Avg Loss: 1.4875	Top1 accuracy: 66.796875
+2025-05-27 05:47:51,602 - INFO - Best model updated at epoch 36 with loss 1.4667
+2025-05-27 05:47:51,602 - DEBUG - Epoch: 35	Avg Loss: 1.4667	Top1 accuracy: 69.921875
+2025-05-27 06:00:06,222 - INFO - Best model updated at epoch 37 with loss 1.4458
+2025-05-27 06:00:06,222 - DEBUG - Epoch: 36	Avg Loss: 1.4458	Top1 accuracy: 68.5546875
+2025-05-27 06:12:21,977 - INFO - Best model updated at epoch 38 with loss 1.4275
+2025-05-27 06:12:21,977 - DEBUG - Epoch: 37	Avg Loss: 1.4275	Top1 accuracy: 73.828125
+2025-05-27 06:24:38,455 - INFO - Best model updated at epoch 39 with loss 1.3845
+2025-05-27 06:24:38,456 - DEBUG - Epoch: 38	Avg Loss: 1.3845	Top1 accuracy: 71.875
+2025-05-27 06:36:53,903 - INFO - Checkpoint saved at epoch 40
+2025-05-27 06:36:54,804 - INFO - Best model updated at epoch 40 with loss 1.3656
+2025-05-27 06:36:54,805 - DEBUG - Epoch: 39	Avg Loss: 1.3656	Top1 accuracy: 69.7265625
+2025-05-27 06:49:09,220 - INFO - Best model updated at epoch 41 with loss 1.3609
+2025-05-27 06:49:09,220 - DEBUG - Epoch: 40	Avg Loss: 1.3609	Top1 accuracy: 70.5078125
+2025-05-27 07:01:22,954 - INFO - Best model updated at epoch 42 with loss 1.3310
+2025-05-27 07:01:22,955 - DEBUG - Epoch: 41	Avg Loss: 1.3310	Top1 accuracy: 75.0
+2025-05-27 07:13:38,697 - INFO - Best model updated at epoch 43 with loss 1.3237
+2025-05-27 07:13:38,697 - DEBUG - Epoch: 42	Avg Loss: 1.3237	Top1 accuracy: 77.9296875
+2025-05-27 07:25:52,868 - INFO - Best model updated at epoch 44 with loss 1.2821
+2025-05-27 07:25:52,869 - DEBUG - Epoch: 43	Avg Loss: 1.2821	Top1 accuracy: 73.2421875
+2025-05-27 07:38:06,315 - INFO - Checkpoint saved at epoch 45
+2025-05-27 07:38:06,315 - DEBUG - Epoch: 44	Avg Loss: 1.2910	Top1 accuracy: 72.65625
+2025-05-27 07:50:20,744 - INFO - Best model updated at epoch 46 with loss 1.2792
+2025-05-27 07:50:20,745 - DEBUG - Epoch: 45	Avg Loss: 1.2792	Top1 accuracy: 68.359375
+2025-05-27 08:02:36,487 - INFO - Best model updated at epoch 47 with loss 1.2568
+2025-05-27 08:02:36,488 - DEBUG - Epoch: 46	Avg Loss: 1.2568	Top1 accuracy: 75.78125
+2025-05-27 08:14:53,033 - INFO - Best model updated at epoch 48 with loss 1.2262
+2025-05-27 08:14:53,033 - DEBUG - Epoch: 47	Avg Loss: 1.2262	Top1 accuracy: 75.390625
+2025-05-27 08:27:09,882 - INFO - Best model updated at epoch 49 with loss 1.2080
+2025-05-27 08:27:09,883 - DEBUG - Epoch: 48	Avg Loss: 1.2080	Top1 accuracy: 75.0
+2025-05-27 08:39:27,229 - INFO - Checkpoint saved at epoch 50
+2025-05-27 08:39:27,229 - DEBUG - Epoch: 49	Avg Loss: 1.2109	Top1 accuracy: 73.4375
+2025-05-27 08:39:27,230 - INFO - Training has finished.
+2025-05-27 08:40:33,572 - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,573 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,574 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf', name='Liberation Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-BoldOblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Demi.otf', name='URW Bookman', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-BoldItalic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Regular.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-DemiItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-BoldItalic.ttf', name='Liberation Sans Narrow', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Oblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Regular.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Italic.otf', name='P052', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf', name='Liberation Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Bold.otf', name='Nimbus Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-BoldItalic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,575 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf', name='Nimbus Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Regular.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Demi.otf', name='URW Gothic', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Light.otf', name='URW Bookman', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf', name='Liberation Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf', name='Nimbus Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-DemiOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Bold.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Bold.otf', name='P052', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Roman.otf', name='C059', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Bold.otf', name='C059', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-LightItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf', name='Liberation Sans Narrow', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoMono-Regular.ttf', name='Noto Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Roman.otf', name='P052', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/droid/DroidSansFallbackFull.ttf', name='Droid Sans Fallback', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Regular.otf', name='Nimbus Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-BdIta.otf', name='C059', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Italic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf', name='Z003', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Italic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Bold.ttf', name='Liberation Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2025-05-27 08:40:33,576 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-BookOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/D050000L.otf', name='D050000L', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-BoldItalic.otf', name='P052', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Bold.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Italic.otf', name='C059', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Book.otf', name='URW Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/StandardSymbolsPS.otf', name='Standard Symbols PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/humor-sans/Humor-Sans.ttf', name='Humor Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,577 - DEBUG - findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2025-05-27 08:40:33,577 - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.11/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
